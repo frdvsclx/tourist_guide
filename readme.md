@@ -1,3 +1,6 @@
+-ollama app indirilmeli
+-llama3.2 yüklenilmeli
+
 .\venv\Scripts\activate     
 streamlit run code\streamlit.py
 
