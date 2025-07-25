@@ -28,6 +28,6 @@ A Streamlit-based application that uses the Llama 3.2 3B model via Ollama for in
 
 Follow the on-screen instructions in your browser after launching the app.
 
-![touristguide](https://github.com/user-attachments/assets/162c3172-e926-4790-9018-bdef83af3c18)
+![tourist_guide_lama](https://github.com/user-attachments/assets/98e3d918-90b2-416b-81de-02c5f1de661f)
 
 
