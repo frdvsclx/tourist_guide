@@ -15,7 +15,6 @@ st.title("Tourist Guide")
 st.markdown("You can ask whatever you want about travelling human")
 
 #session state (kullanici gecmisini tutmak icin)
-
 if "memory" not in st.session_state:
     st.session_state.memory =  ConversationBufferMemory(return_messages=True)
     

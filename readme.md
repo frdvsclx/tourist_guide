@@ -1,9 +1,32 @@
--ollama app indirilmeli
--llama3.2 yüklenilmeli
+# Tourist Guide
 
-.\venv\Scripts\activate     
-streamlit run code\streamlit.py
+A Streamlit-based application that uses the Llama 3.2 3B model via Ollama for interactive guidance.
 
-terminalde calıstırılmalı
- 
-<img width="906" height="969" alt="image" src="https://github.com/user-attachments/assets/39cf5f4a-f706-4086-9e12-3c59c4937f14" />
+## Prerequisites
+
+- Python 3.8+
+- [Ollama](https://ollama.com/download) app installed
+
+## Setup Instructions
+
+1. **Download and install Ollama.**
+2. **Load the Llama 3.2 3B model** in the Ollama app.
+3. **Install the required Python packages**  
+   ```
+    pip install langchain langchain_community ollama streamlit
+   ```
+4. **Activate the virtual environment:**
+   ```
+   .\venv\Scripts\activate
+   ```
+5. **Run the Streamlit app:**
+   ```
+   streamlit run code\streamlit_streaming.py
+   ```
+
+## Usage
+
+Follow the on-screen instructions in your browser after launching the app.
+
+
+
